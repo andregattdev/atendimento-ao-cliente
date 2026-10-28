@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiGestaoAtendimentoClienteApplication<api-gestao-atendimento-cliente>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.app.api_gestao_atendimento_cliente.ApiGestaoAtendimentoClienteApplication",
+            "projectName": "api-gestao-atendimento-cliente",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
